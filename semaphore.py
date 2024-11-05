@@ -9,7 +9,7 @@ def display(str1):
         sleep(0.7)
     l.release()
 
-l = Semaphore(2)
+l = Semaphore(1)  # Number denotes how many threads can it access at a time
 t1 = Thread(target=display,args=("Hello World",))
 t2 = Thread(target=display,args=("Welcome",))
 t3 = Thread(target=display,args=("0123456",))

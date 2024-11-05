@@ -1,0 +1,34 @@
+2024-10-29 19:54:47,683 - DEBUG - Start the program
+2024-10-29 19:54:47,683 - DEBUG - Start the prime number checking of 5
+2024-10-29 19:54:47,683 - DEBUG - i is 2
+2024-10-29 19:54:47,683 - DEBUG - End of the program
+2024-10-29 19:58:18,504 - DEBUG - Start the program
+2024-10-29 19:58:18,504 - DEBUG - Start the prime number checking of 5
+2024-10-29 19:58:36,497 - DEBUG - Start the program
+2024-10-29 19:58:36,497 - DEBUG - Start the prime number checking of 5
+2024-10-29 19:58:44,179 - DEBUG - Start the program
+2024-10-29 19:58:44,179 - DEBUG - Start the prime number checking of 5
+2024-10-29 19:58:44,180 - DEBUG - i is 2
+2024-10-29 19:58:44,180 - DEBUG - End of the program
+2024-10-29 19:59:29,972 - DEBUG - Start the program
+2024-10-29 19:59:29,973 - DEBUG - Start the prime number checking of 5
+2024-10-29 19:59:29,973 - DEBUG - i is 2
+2024-10-29 19:59:29,973 - DEBUG - End of the program
+2024-10-29 20:00:35,020 - DEBUG - Start the program
+2024-10-29 20:00:35,020 - DEBUG - Start the prime number checking of 49
+2024-10-29 20:00:35,020 - DEBUG - i is 2
+2024-10-29 20:00:35,020 - DEBUG - i is 3
+2024-10-29 20:00:35,020 - DEBUG - i is 4
+2024-10-29 20:00:35,020 - DEBUG - i is 5
+2024-10-29 20:00:35,020 - DEBUG - i is 6
+2024-10-29 20:00:35,020 - DEBUG - i is 7
+2024-10-29 20:00:35,020 - DEBUG - End of the program
+2024-10-29 22:01:25,790 - DEBUG - Start the program
+2024-10-29 22:01:25,791 - DEBUG - Start the prime number checking of 49
+2024-10-29 22:01:25,791 - DEBUG - i is 2
+2024-10-29 22:01:25,791 - DEBUG - i is 3
+2024-10-29 22:01:25,791 - DEBUG - i is 4
+2024-10-29 22:01:25,791 - DEBUG - i is 5
+2024-10-29 22:01:25,791 - DEBUG - i is 6
+2024-10-29 22:01:25,791 - DEBUG - i is 7
+2024-10-29 22:01:25,791 - DEBUG - End of the program
